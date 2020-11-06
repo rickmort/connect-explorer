@@ -13,6 +13,7 @@ export const select = [
     { value: 'vtc', label: 'Vertcoin', affectedValue: `m/49'/28'/0'` },
     { value: 'cpc', label: 'Capricoin', affectedValue: `m/44'/289'/0'` },
     { value: 'kmd', label: 'Komodo', affectedValue: `m/44'/289'/0'` },
+    { value: 'dcr', label: 'Decred', affectedValue: `m/44'/42'/0'`}
 ];
 
 export const xpubs = [
