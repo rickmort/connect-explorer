@@ -66,6 +66,11 @@ const examples = {
     amount: '20000',
     address: 'CMSgH7wq4kV9ogmSPB5rBmPceQJy3oA9Bu',
 }]`,
+    tdcr:
+`[{
+        amount: '2000',
+        address: 'TsfDLrRkk9ciUuwfp2b8PawwnukYD7yAjGd',
+}]`,
 };
 
 export default [
